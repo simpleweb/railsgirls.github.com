@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Rails Girls App Tutorial
+title: Rails Kids App Tutorial
 permalink: app
 ---
 
-# Rails Girls App Tutorial
+# Rails Kids App Tutorial
 
-*Created by Vesa Vänskä, [@vesan](https://twitter.com/vesan)*
+*Created by Vesa Vänskä, [@vesan](https://twitter.com/vesan), modified for rails kids by [@adambutler](https://twitter.com/labfoo)*
 
 **Make sure you have Rails installed.** [**Follow the installation guide**](/install) to get set up.
 
